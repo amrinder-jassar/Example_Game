@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     //############################################
     //ROTATE PLAYER TO FACE MOUSE POSITION ALWAYS
+    //###########################################
 
     private CharacterController controller;
     Vector3 moveInput;
